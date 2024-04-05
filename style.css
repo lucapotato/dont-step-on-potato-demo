@@ -4,25 +4,23 @@
     overflow-x: hidden;
 }
 
-body {
-  width:1920px;
-  background-color: #f8e0b3;
-  height:1080px;
-}
 .game{
     width: 500px;
     height: 200px;
     border: 3px solid black;
-    margin: auto;
+    margin: 0%;
     background-image: url("https://i.ibb.co/tp2yCMz/Untitled10-20240405012638.png");
 }
-
+body {
+  width:1920px;
+  height:1080px;
+}
 .grass{
   width: 500px;
   height: 50px;
   background-color: green;
   border: 3px solid black;
-  margin: auto;
+  margin: 0%;
 }
 
 .image{
@@ -30,7 +28,7 @@ body {
   height: 200px;
   position: relative;
   background-image: url("https://i.ibb.co/SBmpBrg/Polish-20240405-022319758.jpg");
-  margin: auto;
+  margin: 0%;
   border: 3px solid white;
 }
 
